@@ -1,0 +1,9 @@
+---
+title: "첫 블로그 포스트"
+author: "KIM namo"
+date: "2024-02-16"
+categories: [일상]
+image: "image.jpg"
+---
+
+블로그를 시작하는 것에 있어서 너무 디자인에 집착하다 보면 안하게 된다. Github blog 포스트도 많이 보고, Tstory 블로그도 많이 보아 왔는데, 매번 실패했다. 이번에는 어떨지 참 궁금하다.
