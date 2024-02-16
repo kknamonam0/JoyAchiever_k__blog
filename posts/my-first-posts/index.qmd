@@ -1,6 +1,6 @@
 ---
 title: "첫 블로그 포스트"
-author: "KIM namo"
+author: "namo"
 date: "2024-02-16"
 categories: [일상]
 image: "image.jpg"
